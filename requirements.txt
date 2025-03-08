@@ -1,0 +1,15 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+flask-login
+
+pytz
+
+openai
+
+#./pip_modules/llama_cpp_python-0.3.7
+llama-cpp-python
+langchain
+langchain-community
+llama-cpp-python
+
